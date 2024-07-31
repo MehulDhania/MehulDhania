@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehulDhania
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python,java ,c++,hmtl,css
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python,c++,hmtl,css,JavaScript,react 
 - 📫 How to reach me mehuldhania2002@gmail.com 
 
 <!---
